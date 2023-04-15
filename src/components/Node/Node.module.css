@@ -1,0 +1,11 @@
+.nodeChildren {
+	margin-left: 1.6rem;
+}
+
+.node {
+	cursor: pointer;
+}
+
+.active {
+	background-color: rgba(100, 100, 0, 0.6);
+}
